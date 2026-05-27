@@ -1,0 +1,1 @@
+.env # tells Git do not uppload .env file
